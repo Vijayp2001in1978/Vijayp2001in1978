@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on tieups with OEMs of CNC manufacturing
 - 📫 How to reach me https://www.linkedin.com/in/vijay-panchal-55505222/
 - 😄 Pronouns: MR
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i want to learn scripting to procure a job related
 
 <!---
 Vijayp2001in1978/Vijayp2001in1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
